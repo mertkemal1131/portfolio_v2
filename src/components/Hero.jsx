@@ -70,8 +70,8 @@ export default function Hero() {
             </div>
           </div>
 
-          <div className="hidden md:block flex-shrink-0 w-[220px] lg:w-[260px] xl:w-[300px]">
-            <div className="rounded-lg overflow-hidden aspect-[3/4]">
+          <div className="hidden md:block flex-shrink-0 w-[380px] lg:w-[440px] xl:w-[480px]">
+            <div className="rounded-2xl overflow-hidden aspect-[4/3]">
               <img src={heroSection.profileImage} alt={heroSection.greeting} className="w-full h-full object-cover" />
             </div>
           </div>
