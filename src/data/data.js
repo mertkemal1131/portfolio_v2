@@ -3,7 +3,7 @@ const data = {
     heroSection: {
       greeting: "Almila Su",
       intro: "Hi, I'm Almila. I'm a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let's shake hands with me.",
-      profileImage: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&q=80",
+      profileImage: "src/img/76b06993b04fd1fa29a883e2f4b8b8577a5c82eb.png",
       socials: [
         { logo: "linkedin", alt_text: "linkedin", link: "https://linkedin.com" },
         { logo: "github",   alt_text: "github",   link: "https://github.com" },
@@ -50,7 +50,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "View Site",
-          image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          image: "src/img/ad5081bf69bb4825e42350e768340fdbec09d78b.png",
         },
         {
           id: 2,
@@ -59,7 +59,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "View Site",
-          image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          image: "src/img/64b806122ad18b91bc83b5e0c2524ee319ac4a12.png",
         },
         {
           id: 3,
@@ -68,7 +68,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "View Site",
-          image: "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=600&q=80",
+          image: "src/img/600e630ba9370e031b441737654465d0f374af51.png",
         },
       ],
     },
@@ -100,7 +100,7 @@ const data = {
     heroSection: {
       greeting: "Almila Su",
       intro: "Merhaba, ben Almila. Bir full-stack geliştiriciyim. Sağlam ve ölçeklenebilir frontend ürünleri geliştirmek için biriyle çalışmak istiyorsanız, seçim benim. Hadi el sıkışalım.",
-      profileImage: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&q=80",
+      profileImage: "src/img/76b06993b04fd1fa29a883e2f4b8b8577a5c82eb.png",
       socials: [
         { logo: "linkedin", alt_text: "linkedin", link: "https://linkedin.com" },
         { logo: "github",   alt_text: "github",   link: "https://github.com" },
@@ -147,7 +147,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "Siteyi Gör",
-          image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          image: "src/img/ad5081bf69bb4825e42350e768340fdbec09d78b.png",
         },
         {
           id: 2,
@@ -156,7 +156,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "Siteyi Gör",
-          image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          image: "src/img/64b806122ad18b91bc83b5e0c2524ee319ac4a12.png",
         },
         {
           id: 3,
@@ -165,7 +165,7 @@ const data = {
           tags: ["react", "redux", "axios"],
           github: "Github",
           live: "Siteyi Gör",
-          image: "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=600&q=80",
+          image: "src/img/600e630ba9370e031b441737654465d0f374af51.png",
         },
       ],
     },
