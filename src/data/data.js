@@ -150,6 +150,56 @@ const data = {
         },
       ],
     },
+    skillsSection: {
+      title: "Yetenekler",
+      skills: [
+        { name: "Java Script", description: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+        { name: "React.Js", description: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+        { name: "Node.Js", description: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+      ],
+    },
+    profileSection: {
+      title: "Profil",
+      basicInfo: {
+        label: "Profil",
+        fields: [
+          { key: "Doğum tarihi", value: "24.03.1996" },
+          { key: "İkamet Şehri", value: "Ankara" },
+          { key: "Eğitim Durumu", value: "Hacettepe Ünv.  Biyoloji Lisans, 2016" },
+          { key: "Tercih Ettiği Rol", value: "Frontend, UI" },
+        ],
+      },
+      aboutMe: {
+        label: "Hakkımda",
+        paragraphs: [
+          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniarn sunt in culpa aliquam voluptatum nisi mollitia.",
+          "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+        ],
+      },
+    },
+    contactSection: {
+      line1: "Bir sonraki projenizde",
+      line2: "birlikte çalışalım.",
+      email: "almilasucode@gmail.com",
+      links: [
+        { label: "Kişisel Blog", href: "#" },
+        { label: "Github", href: "https://github.com" },
+        { label: "Linkedin", href: "https://linkedin.com" },
+      ],
+      namePlaceholder: "Adınız",
+      emailPlaceholder: "E-posta Adresiniz",
+      messagePlaceholder: "Mesajınız",
+      submit: "Mesaj Gönder",
+      sending: "Gönderiliyor...",
+      successToast: "Mesaj gönderildi! 🎉",
+      errorToast: "Bir hata oluştu. Lütfen tekrar deneyin.",
+    },
+    nav: {
+      skills: "Yetenekler",
+      projects: "Projeler",
+      hire: "İşe Al",
+      langToggle: "SWITCH TO ENGLISH",
+    },
   },
 };
 
